@@ -1,0 +1,9 @@
+name = "SCUTIWEN"
+uuid = "aa5019ae-967d-4710-9516-050fb39da0b5"
+authors = ["llathasa-veleth <llathasa@outlook.com>"]
+version = "0.1.0"
+
+[deps]
+LightXML = "9c8b4983-aa76-5018-a973-4c85ecc9e179"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+TextWrap = "b718987f-49a8-5099-9789-dcd902bef87d"
